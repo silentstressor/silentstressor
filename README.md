@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @silentstressor, usually mushrooming in Finland
-- 👀 I’m interested in audio, sound design, music software, logistics, food production and teaching
+- 👀 I’m interested in audio, sound design, music software, logistics, supply-chain management and teaching
 - 🌱 I’m currently learning how to lead a team of coders and as we know, it is neverending process
-- 💞️ I’m looking to collaborate on sound design and music for your game, brand, videos or project...
-- ✨ I am developing new age smart food ordering webapp... seriously!
-- 📫 You can reach me many ways, usually online, but I prefer onwave
+- 💞️ I’m happy to collaborate on sound design and music for your game, brand, advertisement etc....
+- 📫 You can reach me many ways, usually online, but I prefer onwave!
